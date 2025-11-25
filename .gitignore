@@ -1,0 +1,12 @@
+*.dcu
+*.dsk
+*.~*
+*.exe
+*.dll
+__recovery/
+*.dproj
+*.dproj.local
+*.dsv
+*.stat
+*.identcache
+
